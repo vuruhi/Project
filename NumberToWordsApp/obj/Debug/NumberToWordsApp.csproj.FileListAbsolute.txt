@@ -1,0 +1,10 @@
+E:\Учеба\ProgramC#\NumberToWordsApp\bin\Debug\NumberToWordsApp.exe.config
+E:\Учеба\ProgramC#\NumberToWordsApp\bin\Debug\NumberToWordsApp.exe
+E:\Учеба\ProgramC#\NumberToWordsApp\bin\Debug\NumberToWordsApp.pdb
+E:\Учеба\ProgramC#\NumberToWordsApp\obj\Debug\NumberToWordsApp.csprojAssemblyReference.cache
+E:\Учеба\ProgramC#\NumberToWordsApp\obj\Debug\NumberToWordsApp.Form1.resources
+E:\Учеба\ProgramC#\NumberToWordsApp\obj\Debug\NumberToWordsApp.Properties.Resources.resources
+E:\Учеба\ProgramC#\NumberToWordsApp\obj\Debug\NumberToWordsApp.csproj.GenerateResource.cache
+E:\Учеба\ProgramC#\NumberToWordsApp\obj\Debug\NumberToWordsApp.csproj.CoreCompileInputs.cache
+E:\Учеба\ProgramC#\NumberToWordsApp\obj\Debug\NumberToWordsApp.exe
+E:\Учеба\ProgramC#\NumberToWordsApp\obj\Debug\NumberToWordsApp.pdb
